@@ -7,7 +7,9 @@ git clone "https://github.com/johanstech/ProjectAutomation.git"
 cd ProjectAutomation
 touch .env
 Open and edit .env file according to .env Format below
-Open and edit .automation.sh according to where you placed this project: source ~/<your/path>/ProjectAutomation/.env
+Open and edit .automation.sh according to where you placed this project:
+source ~/<your/path>/ProjectAutomation/.env
+
 Add 'source ~/<your/path>/ProjectAutomation/.automation.sh' to the RC file of your shell
 ```
 
