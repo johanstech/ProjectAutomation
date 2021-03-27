@@ -30,5 +30,5 @@ PROJECT_FILEPATH="path/to/your/project/s"
 ### Usage
 
 ```bash
-Run the script from anywhere by typing 'create <name of project/repository>' in a CLI
+Run the script from anywhere by typing 'create <name of project or repository>' in a CLI
 ```
