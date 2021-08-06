@@ -4,8 +4,8 @@ function create() {
     cd
     source ~/Projects/ProjectAutomation/.env
     remoteGit $1
-    mkdir $PROJECT_FILEPATH$1
-    cd $PROJECT_FILEPATH$1
+    mkdir $PROJECT_FILEPATH/$1
+    cd $PROJECT_FILEPATH/$1
     localGit $1
 }
 
